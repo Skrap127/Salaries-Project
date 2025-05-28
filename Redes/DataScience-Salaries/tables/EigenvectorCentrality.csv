@@ -1,0 +1,318 @@
+"Nodo","Centralidad"
+"Software Engineer",0.004183729553698178
+"Data Scientist",0.004183729553698178
+"Machine Learning Engineer",0.004183729553698178
+"Data Engineer",0.004183729553698178
+"Data Analyst",0.004182433713947697
+"Engineer",0.004182205977945208
+"Manager",0.004182205977945208
+"Associate",0.004180782407798671
+"Analyst",0.004179494591496022
+"Research Scientist",0.00417880579777812
+"Analytics Engineer",0.004177443106402161
+"Research Engineer",0.004175724961342645
+"Business Intelligence",0.004174495960502655
+"Developer",0.004174495960502654
+"Software Developer",0.004174495960502654
+"Data Architect",0.0041741641944213455
+"Research Analyst",0.004172340082079536
+"Cloud Engineer",0.0041710145818719055
+"Data Specialist",0.004169496020127711
+"Consultant",0.004164701555841758
+"BI Developer",0.0041645054125821765
+"AI Developer",0.004163779866862805
+"Data Manager",0.004162460466651429
+"Business Intelligence Engineer",0.00416196870264566
+"Product Manager",0.004161212595971963
+"Business Intelligence Analyst",0.004160825958406085
+"Business Intelligence Developer",0.004159887646426595
+"Business Analyst",0.004159566176074667
+"AI Engineer",0.004156380212535555
+"Data Management Analyst",0.004152025621319416
+"Data Lead",0.004147846657246884
+"Systems Engineer",0.004141743147332276
+"Data Product Manager",0.004141252412530996
+"DevOps Engineer",0.004135084667543603
+"Data Management Specialist",0.004133931157786591
+"Data Quality Analyst",0.004132846347614513
+"BI Analyst",0.004132490457650612
+"Architect",0.004125784611583253
+"Data Governance Analyst",0.004121578501663255
+"Software Development Engineer",0.004120219201011636
+"Data Analytics Manager",0.004112932368205865
+"Data Governance",0.004112183748350576
+"Solutions Engineer",0.004110737449554811
+"Solutions Architect",0.0041019355992704095
+"Machine Learning Scientist",0.004101440083168662
+"Full Stack Engineer",0.004096493460617062
+"MLOps Engineer",0.0040897394279480696
+"Solution Architect",0.004088276850819631
+"Data Modeler",0.004083434705664774
+"Product Analyst",0.0040833182478033124
+"Data Operations Engineer",0.004082419782535741
+"Platform Engineer",0.004081805296158322
+"Decision Scientist",0.004078836806927699
+"Head of Data",0.004078262892489441
+"Site Reliability Engineer",0.004077350417419476
+"Applied Scientist",0.004075944749491817
+"Full Stack Developer",0.0040749826955855
+"Data Developer",0.004073801971460717
+"Backend Engineer",0.00407190639514404
+"Quantitative Analyst",0.00407153655056745
+"Data Product Owner",0.004068320508145003
+"Technical Lead",0.0040668060725910105
+"Data Strategist",0.004064034002989238
+"Data Operations Analyst",0.004063251761473576
+"Data Governance Specialist",0.004059692292976925
+"Research Associate",0.004056433436477484
+"Data Governance Lead",0.00404567705810548
+"Statistical Programmer",0.004035843523160634
+"Computer Vision Engineer",0.004034967694153652
+"Robotics Engineer",0.0040345397435923355
+"Data Analytics Lead",0.004026433859691162
+"Data Visualization Engineer",0.004024638686844758
+"BI Engineer",0.004018767803341457
+"Python Developer",0.004017358055589157
+"AI Scientist",0.004014152307461388
+"AI Architect",0.0040075150358769435
+"Data Integration Specialist",0.004002424983115733
+"Power BI Developer",0.004001688781187024
+"Statistician",0.003996208499930633
+"QA Engineer",0.003992819801622451
+"Data Integration Engineer",0.0039910955146150945
+"Data Infrastructure Engineer",0.00398844331843615
+"Machine Learning Researcher",0.003978885725434701
+"AI Specialist",0.003975573731180619
+"Insight Analyst",0.0039693792896324884
+"Bioinformatics Scientist",0.00396600779319338
+"Engineering Manager",0.003965631171312643
+"Data Visualization Specialist",0.0039638360601826055
+"Prompt Engineer",0.0039519724943112965
+"Analytics Specialist",0.003950928268790265
+"Data Analytics Specialist",0.00393232480617081
+"Machine Learning Developer",0.003931608171838974
+"AI Researcher",0.003914198642183473
+"Data Quality Engineer",0.00391265804717866
+"Computational Biologist",0.0039058021131665737
+"Data Visualization Analyst",0.0038928909958351704
+"Product Designer",0.0038853456663611088
+"ETL Developer",0.003882427027041156
+"Analytics Lead",0.003871711152989791
+"Member of Technical Staff",0.0038706597254493163
+"Data Analytics Consultant",0.003868511083372995
+"Cloud Database Engineer",0.003859431989718021
+"Machine Learning Infrastructure Engineer",0.0038546228091058954
+"Data Operations Manager",0.003843892251461847
+"Data Reporting Analyst",0.003842020771156134
+"Data Governance Manager",0.003840523570420026
+"Quantitative Researcher",0.0038390014326997223
+"Security Engineer",0.0038296380966181156
+"Business Intelligence Lead",0.003826731453598261
+"Data Management Lead",0.0038228036241063084
+"Data Visualization Developer",0.003820555014473095
+"Product Owner",0.0038103905490281392
+"Data Operations Specialist",0.0037846807290481538
+"Account Executive",0.003783905717620469
+"Lead Analyst",0.003771849615959428
+"Business Intelligence Manager",0.0037663817506696203
+"Data Platform Engineer",0.00372883885397951
+"System Engineer",0.003709014798878907
+"Software Architect",0.003707732450908452
+"Business Intelligence Specialist",0.003706955227775486
+"Bioinformatician",0.0037067407916581904
+"Data Quality Specialist",0.003691286229696505
+"Lead Engineer",0.0036898114125914826
+"Business Data Analyst",0.0036831871183075344
+"Principal Statistical Programmer",0.003675056144446473
+"Technical Writer",0.0036674130746752777
+"Artificial Intelligence Engineer",0.0036668109565274314
+"NLP Engineer",0.003650547862124833
+"Data Quality Lead",0.0036416831118360245
+"Data Integration Analyst",0.0036269314765390425
+"Cloud Database Administrator",0.003626243779868775
+"Data Team Lead",0.003621198447844826
+"Fullstack Engineer",0.003611987067886726
+"Machine Learning Specialist",0.0036058275196785036
+"Research Assistant",0.0036038986412970943
+"Enterprise Account Executive",0.0035952435819858694
+"Postdoctoral Fellow",0.0035633599766230696
+"Machine Learning Manager",0.0035311757892328975
+"Application Developer",0.0035264227298942527
+"Data and Reporting Analyst",0.003525242197938396
+"Infrastructure Engineer",0.003521578693775364
+"AI Product Manager",0.003505130809559402
+"Data Operations Associate",0.0034992108948035685
+"Data Quality Manager",0.003494978848917507
+"AI Product Owner",0.003492015051854484
+"Tech Lead",0.0034822116010522286
+"Machine Learning Architect",0.0034569688827109117
+"AI Software Engineer",0.0034551986681953598
+"Master Data Management",0.003449390053951657
+"Data Integration Developer",0.0034341714103801576
+"Data Integrity Analyst",0.003430880025261648
+"Data Integrator",0.0034179882311281117
+"AI Lead",0.003414314377812567
+"BI Data Analyst",0.0034063178109720368
+"Data Governance Engineer",0.00340223468586963
+"Robotics Software Engineer",0.003392677852993666
+"Machine Learning Software Engineer",0.0033904083546861534
+"Data Strategy Lead",0.0033848850506659565
+"Postdoctoral Researcher",0.003348717521668868
+"Head of AI",0.003344830040530908
+"Data Operations",0.003336233916539388
+"ETL Engineer",0.003318214547447167
+"Applied Machine Learning Scientist",0.0033141618524397255
+"Risk Analyst",0.003313915576317524
+"Executive",0.0033115268064859826
+"Lead Data Scientist",0.0033073648877255447
+"Applied Data Scientist",0.0033065592791805595
+"Data Management Associate",0.003302248947933567
+"Actuarial Analyst",0.0032990531714754924
+"AI Programmer",0.003291051208972404
+"Algorithm Developer",0.003286288036083656
+"Quantitative Developer",0.00328331168497417
+"Principal Data Scientist",0.0032768814427742983
+"ML Infrastructure Engineer",0.0032697647461335344
+"Deep Learning Engineer",0.0032474626033953055
+"Data Management Consultant",0.00324600752257929
+"DataOps Engineer",0.003245922584987564
+"Big Data Engineer",0.003245859889027679
+"Security Researcher",0.003241225568737014
+"Product Specialist",0.0032393808458041967
+"Data Analytics Developer",0.003202943461126851
+"Pricing Analyst",0.003196393523794594
+"AI Solution Architect",0.0031859449416329084
+"Developer Advocate",0.003184056899106218
+"Encounter Data Management Professional",0.003177851901091521
+"Machine Learning Quality Engineer",0.0031680560276740083
+"Lead Data Engineer",0.00316493307140556
+"Big Data Developer",0.0031631730271577015
+"Bear Robotics",0.0031601989013392666
+"Power BI",0.0031395754248790333
+"Principal Researcher",0.003129184218278338
+"Data Strategy Manager",0.0031207480235287592
+"Computational Scientist",0.0031190266847494525
+"Cloud Data Engineer",0.0030924035378548766
+"Sales Development Representative",0.0030691601922927547
+"Data Reporter",0.003040382367971022
+"Machine Learning Platform Engineer",0.003026357885572473
+"Data and Reporting Professional",0.0030148464464705596
+"Director of Machine Learning",0.003004374511358325
+"AI Research Scientist",0.002998820905520559
+"Principal Software Architect",0.002988275858385013
+"AI Data Scientist",0.002983819001825387
+"Machine Learning Lead",0.002968773379624568
+"Chatbot Developer",0.0029594009054572513
+"Frontend Engineer",0.0029529348896199545
+"Data Integrity Specialist",0.002940765978103465
+"Machine Learning Modeler",0.002916789610099541
+"Data Management Manager",0.002900631134446283
+"Lead Machine Learning Engineer",0.0028936433413046304
+"Product Data Analyst",0.002885639658842906
+"Data Operations Lead",0.002857581334003219
+"Power BI Expert",0.0028500252362662153
+"Data Analytics Engineer",0.0028378115399814727
+"Head of Machine Learning",0.0028348213439544395
+"Stage",0.002821238477328155
+"Data Analytics Associate",0.0028129789536739695
+"Admin & Data Analyst",0.0027936166731076482
+"Lead Data Analysis",0.0027884707053759915
+"Computer Vision Software Engineer",0.0027838269475191605
+"Java Developer",0.0027537816224195155
+"Financial Data Analyst",0.002747626193524116
+"Power BI Administrator",0.0027256396410039294
+"AI Research Engineer",0.0027136085607840687
+"Head of Business Intelligence",0.002713219735990808
+"Data Scientist Lead",0.0026975861098027633
+"Lead Data Analyst",0.0026828664722352664
+"AI Machine Learning Engineer",0.0026767601758929255
+"Staff Data Scientist",0.0026363136212122474
+"Database Administrator",0.002627725527030296
+"Data Pipeline Engineer",0.0026116888373542
+"Power BI Architect",0.0025905425810565396
+"Consultant Data Engineer",0.0025466819687683805
+"AI Governance Lead",0.0025464212136704183
+"Applied Machine Learning Engineer",0.0025305344179398616
+"Principal Data Engineer",0.002501371454657211
+"Machine Learning Research Engineer",0.002501057675493638
+"Power BI Consultant",0.002498576613773844
+"Data Analytics Team Lead",0.0024975814482936327
+"Principal Data Analyst",0.002474987857753561
+"Elasticsearch Administrator",0.002467136824519372
+"Technology Integrator",0.002467136824519372
+"Principal Machine Learning Engineer",0.002458910865288205
+"Tableau Developer",0.0024452873079808756
+"Software Data Engineer",0.0024188121923782147
+"Autonomous Vehicle Technician",0.00241548877354868
+"Marketing Analyst",0.0024073722434268374
+"Director of Business Intelligence",0.002394661345461946
+"AI Data Engineer",0.002389864151642299
+"Marketing Data Analyst",0.0023792206481517554
+"Backend Software Engineer",0.002359475156466903
+"Data Reporting Specialist",0.00235777746304191
+"Solution Engineer",0.0023457794032241243
+"Marketing Science Partner",0.00234010691102983
+"Copywriter",0.0023068312449068275
+"Data Governance Architect",0.002302873441106266
+"SAS Developer",0.002293884067553021
+"Power BI Specialist",0.00228659909751979
+"Big Data Architect",0.0022835949734602823
+"Scala Spark Developer",0.002282483606975008
+"Technical Specialist",0.002281954173559397
+"Staff Data Analyst",0.002263285127712469
+"GenAI Architect",0.0022556365579592566
+"Marketing Analytics Manager",0.0022465095558778275
+"Data Product Analyst",0.0022263738231930326
+"Cloud Developer",0.0022177168581185886
+"Machine Learning Model Engineer",0.0022019538413055014
+"Business Intelligence Consultant",0.002160181815942545
+"Master Data Specialist",0.002156494224043439
+"Machine Learning Performance Engineer",0.002155865795434028
+"Lead Data Management",0.0021536079259892624
+"Machine Vision Engineer",0.0021440241538037037
+"Data DevOps Engineer",0.0021049148091742483
+"Azure Data Engineer",0.002085084351314947
+"Safety Data Management Specialist",0.002085084351314947
+"Backend Developer",0.002084898393505764
+"Principal Application Delivery Consultant",0.0020433703027634633
+"Data Visualization Expert",0.0020219090007641168
+"Databricks Engineer",0.0019754466721455593
+"Machine Learning Tech Lead",0.001938279445240318
+"Manager Data Management",0.001931502686259239
+"Business Intelligence Data Analyst",0.0019164375696274598
+"Data Analyst Lead",0.001895558567458091
+"Business Insights Manager",0.0018665941848169853
+"Deep Learning Researcher",0.0018511259654241986
+"AI Engineering Manager",0.0018467703377803644
+"Data Scientist Manager",0.0017992442718075849
+"Controls Engineer",0.0017861946369606557
+"Marketing Data Scientist",0.0017861946369606557
+"Business Development Representative",0.00176120874548035
+"Big Data Analyst",0.0016929774195926781
+"Business Development Manager",0.001692977419592678
+"Data Integration Coordinator",0.0016665144413652302
+"Staff Machine Learning Engineer",0.0016443664464208876
+"Lead AI Engineer",0.001606154941546284
+"Data Scientist Associate",0.0015777087221322103
+"Finance Data Analyst",0.0015366505626643343
+"Compliance Data Analyst",0.0014908949791736167
+"Cloud Data Architect",0.0014311142522593246
+"Data Management Coordinator",0.0014204220466856334
+"BI Data Engineer",0.0013639820132292579
+"Customer Success Manager",0.0013639820132292579
+"Research Data Manager",0.0013639820132292579
+"Sales Data Analyst",0.0013639820132292577
+"Applied Research Scientist",0.0012582721356933888
+"Marketing Data Engineer",0.001241742520330709
+"Applied AI ML Lead",0.0012282269638282238
+"AWS Data Architect",0.001159725649324563
+"Clinical Data Operator",0.0008497826609917825
+"Quantitative Research Analyst",0.0008321232493794612
+"Platform Data Engineer",0.0007288147340783696
+"CRM Data Analyst",0.0007288147340783695
+"People Data Analyst",0.0005781619670039124
+"Data Science Tech Lead",0.00045198045022223866
+"Principal Data Architect",0.0003641668834984823
+"Analytics Engineering Manager",0.0003097331540791839
+"AI Software Development Engineer",0.0002524498581140912
+"Analytics Analyst",0.00025053208409812303
